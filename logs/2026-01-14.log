@@ -1,0 +1,16 @@
+
+Started POST /api/v1/pedidos for :: ::1 at Wed Jan 14 2026 09:41:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Repuestos del sol","productos":[{"sku":"90015-k","cantidad":10},{"sku":"10328-4","cantidad":10}],"direccion_envio":"Av. vespucio 1256","tran_id":"2"}
+Completed: 500 message:  Time response: 567 ms Request ID: [918d2309-f118-4a6f-b5ba-8e9c11d069ab]
+
+Started POST /api/v1/pedidos for :: ::1 at Wed Jan 14 2026 11:00:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Repuestos del sol","productos":[{"sku":"90015-k","cantidad":10},{"sku":"10328-4","cantidad":10}],"direccion_envio":"Av. vespucio 1256","tran_id":"2"}
+Completed: 500 message:  Time response: 577 ms Request ID: [e20950bf-fed7-4e53-90db-12aa7b91d8e8]
+
+Started POST /api/v1/pedidos for :: ::1 at Wed Jan 14 2026 11:02:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Repuestos del sol","productos":[{"sku":"90015-k","cantidad":10},{"sku":"10328-4","cantidad":10}],"direccion_envio":"Av. vespucio 1256","tran_id":"2"}
+Completed: 500 message:  Time response: 476 ms Request ID: [1c41d253-111b-4d91-8847-6bf4e452cc85]
+
+Started POST /api/v1/pedidos for :: ::1 at Wed Jan 14 2026 11:02:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Repuestos del sol","productos":[{"sku":"90015-k","cantidad":10},{"sku":"10328-4","cantidad":10}],"direccion_envio":"Av. vespucio 1256","tran_id":"2"}
+Completed: 200 message:  Time response: 387 ms Request ID: [86719153-4cd4-4806-b51c-b749d54242fc]

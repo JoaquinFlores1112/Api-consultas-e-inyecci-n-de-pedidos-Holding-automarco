@@ -1,0 +1,68 @@
+
+Started GET /api/v1/sucursales for :: ::1 at Mon Jan 12 2026 10:13:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Repuestos del sol","productos":[{"sku":"90015-k","cantidad":10},{"sku":"10328-4","cantidad":10}],"direccion_envio":"Av. vespucio 1256","tran_id":"2"}
+Completed: 403 message:  Time response: 360 ms Request ID: [091bed0a-27f0-49fd-879a-e9e1397313c2]
+
+Started GET /api/v1/sucursales for :: ::1 at Mon Jan 12 2026 10:14:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Repuestos del sol","productos":[{"sku":"90015-k","cantidad":10},{"sku":"10328-4","cantidad":10}],"direccion_envio":"Av. vespucio 1256","tran_id":"2"}
+Completed: 403 message:  Time response: 14 ms Request ID: [be639b69-8779-4a7d-91d4-5affe972c506]
+
+Started GET /api/v1/sucursales for :: ::1 at Mon Jan 12 2026 10:14:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 403 message:  Time response: 10 ms Request ID: [e0893550-3c22-4af5-98a2-c5c74136a535]
+
+Started GET /api/v1/sucursales for :: ::1 at Mon Jan 12 2026 10:15:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 69 ms Request ID: [6ece92b8-a190-4d2d-9694-803567462b78]
+
+Started GET /api/v1/sucursales for :: ::1 at Mon Jan 12 2026 10:16:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 432 ms Request ID: [965444e2-6232-4978-9d21-8472e2d49417]
+
+Started GET /api/v1/sucursales for :: ::1 at Mon Jan 12 2026 11:12:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 563 ms Request ID: [c0dd92cb-8d56-4e30-a4d8-53b1c5af57c1]
+
+Started GET /api/v1/sucursales for :: ::1 at Mon Jan 12 2026 11:12:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 131 ms Request ID: [dc7f9b0f-68ab-4710-a575-78e50eaf5d14]
+
+Started GET /api/v1/sucursales for :: ::1 at Mon Jan 12 2026 11:14:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 155 ms Request ID: [08e0ab73-e245-450d-ac39-feac222c0546]
+
+Started GET /api/v1/sucursales for :: ::1 at Mon Jan 12 2026 11:15:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 142 ms Request ID: [caf0c5bc-0f64-4a87-80f2-ebd33efb4532]
+
+Started GET /api/v1/sucursales for :: ::1 at Mon Jan 12 2026 11:15:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 174 ms Request ID: [4ff20b8c-09a3-406c-a9ce-6422a08a71b4]
+
+Started GET /api/v1/sucursales for :: ::1 at Mon Jan 12 2026 11:16:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 128 ms Request ID: [2ed9fcfe-37c9-4657-9fec-bad315df124d]
+
+Started GET /api/v1/sucursales for :: ::1 at Mon Jan 12 2026 11:17:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 137 ms Request ID: [794f2b5e-cab9-449b-adee-eb9cc480c487]
+
+Started GET /api/v1/sucursales for :: ::1 at Mon Jan 12 2026 11:17:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 125 ms Request ID: [b72bac14-63bc-4e3d-b9ad-eae58e1588db]
+
+Started GET /api/v1/sucursales for :: ::1 at Mon Jan 12 2026 11:18:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 120 ms Request ID: [3f661d1b-8f31-4422-8935-37dca790f2bd]
+
+Started GET /api/v1/sucursales for :: ::1 at Mon Jan 12 2026 15:49:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 126 ms Request ID: [e653e7d9-2aaa-4df6-8fbc-67792fa83724]
+
+Started GET /api/v1/sucursales for :: ::1 at Mon Jan 12 2026 15:50:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 584 ms Request ID: [fbb551b7-aa4e-46e7-bdfe-931d04f71cfe]
+
+Started GET /api/v1/sucursales for :: ::1 at Mon Jan 12 2026 15:55:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 403 ms Request ID: [b59f295d-068f-479c-8cc6-b01aa3f4efb7]

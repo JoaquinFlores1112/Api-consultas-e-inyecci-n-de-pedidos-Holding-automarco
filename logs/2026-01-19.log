@@ -1,0 +1,36 @@
+
+Started POST /api/v1/pedidos for :: ::1 at Mon Jan 19 2026 08:48:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Repuestos del sol","tran_id":"2","sucursales":{"AUTOMARCO":"0","HD":"0"},"productos":[{"sku":"70012-6","cantidad":10},{"sku":"10328-4","cantidad":10}]}
+Completed: 200 message:  Time response: 818 ms Request ID: [190d997c-2911-41e9-aeed-4db84720e88d]
+
+Started POST /api/v1/pedidos for :: ::1 at Mon Jan 19 2026 09:06:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Repuestos del sol","tran_id":"2","sucursales":{"AUTOMARCO":"0","HD":"0"},"productos":[{"sku":"70012-6","cantidad":10},{"sku":"10328-4","cantidad":10}]}
+Completed: 200 message:  Time response: 477 ms Request ID: [df681fac-5156-4ad0-94cc-4c062ec74bab]
+
+Started POST /api/v1/pedidos for :: ::1 at Mon Jan 19 2026 09:07:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Repuestos del sol","tran_id":"2","sucursales":{"AUTOMARCO":"0","HD":"0"},"productos":[{"sku":"70012-6","cantidad":10},{"sku":"10328-4","cantidad":10}]}
+Completed: 200 message:  Time response: 383 ms Request ID: [f8a8edf8-4e2c-410b-b638-6f553d1f2a6a]
+
+Started POST /api/v1/pedidos for :: ::1 at Mon Jan 19 2026 09:08:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Repuestos del sol","tran_id":"2","sucursales":{"AUTOMARCO":"0","HD":"0"},"productos":[{"sku":"70012-6","cantidad":10},{"sku":"10328-4","cantidad":10}]}
+Completed: 200 message:  Time response: 23932 ms Request ID: [20cd3119-66a5-41c8-a19c-fd9eb7623f25]
+
+Started POST /api/v1/pedidos for :: ::1 at Mon Jan 19 2026 12:29:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Repuestos del sol","tran_id":"2","sucursales":{"AUTOMARCO":"0","HD":"0"},"productos":[{"sku":"70012-6","cantidad":10},{"sku":"10328-4","cantidad":10}]}
+Completed: 200 message:  Time response: 749 ms Request ID: [c6924531-660e-416f-96ed-69fb887143ba]
+
+Started POST /api/v1/pedidos for :: ::1 at Mon Jan 19 2026 16:05:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Repuestos del sol","tran_id":"2","sucursales":{"AUTOMARCO":"0","HD":"0"},"productos":[{"sku":"70012-6","cantidad":10},{"sku":"10328-4","cantidad":10}]}
+Completed: 500 message:  Time response: 179 ms Request ID: [5ff7de3e-2c92-45fd-ba43-267148b9a23b]
+
+Started POST /api/v1/pedidos for :: ::1 at Mon Jan 19 2026 16:09:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Repuestos del sol","tran_id":"2","sucursales":{"AUTOMARCO":"0","HD":"0"},"productos":[{"sku":"70012-6","cantidad":10},{"sku":"10328-4","cantidad":10}]}
+Completed: 200 message:  Time response: 964 ms Request ID: [f0e743b8-539f-41d8-a96c-aef51a7044bf]
+
+Started POST /api/v1/pedidos for :: ::1 at Mon Jan 19 2026 16:48:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Repuestos del sol","tran_id":"2","sucursales":{"AUTOMARCO":"0","HD":"0"},"productos":[{"sku":"70012-6","cantidad":10},{"sku":"10328-4","cantidad":10}]}
+Completed: 200 message:  Time response: 429 ms Request ID: [e05478cd-ae7b-4038-a710-a7aa7545a1fd]
+
+Started POST /api/v1/pedidos for :: ::1 at Mon Jan 19 2026 16:52:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Repuestos del sol","tran_id":"2","sucursales":{"AUTOMARCO":"0","HD":"0"},"productos":[{"sku":"70012-6","cantidad":10},{"sku":"10328-4","cantidad":10}]}
+Completed: 200 message:  Time response: 375 ms Request ID: [9a66b415-24a7-4b17-b98e-58fa7a813d59]

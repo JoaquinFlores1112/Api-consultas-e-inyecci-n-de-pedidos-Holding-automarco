@@ -1,0 +1,76 @@
+
+Started GET /api/v1/category for :: ::1 at Mon Dec 15 2025 09:53:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 23 ms Request ID: [c6af64d7-a01a-464b-841e-c49143425569]
+
+Started GET /favicon.ico for :: ::1 at Mon Dec 15 2025 09:53:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 7 ms Request ID: [5e0fc9b4-d5cb-463b-a19c-111da5e2eca8]
+
+Started POST /api/v1/products for :: ::1 at Mon Dec 15 2025 10:08:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 3348 ms Request ID: [01780679-2056-4666-8556-34d73006c910]
+
+Started POST /api/v1/products for :: ::1 at Mon Dec 15 2025 13:01:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 3275 ms Request ID: [f9a47424-faf3-410e-acbd-91e7c3d64803]
+
+Started GET /api/v1/brands for :: ::1 at Mon Dec 15 2025 16:04:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 27 ms Request ID: [4012ae1c-ba1b-41b7-bcc0-953760d28744]
+
+Started GET /api/v1/brands for :: ::1 at Mon Dec 15 2025 16:09:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 5 ms Request ID: [cbde0dc8-1fe1-439d-a310-8f8886975949]
+
+Started GET /api/v1/pedidos for :: ::1 at Mon Dec 15 2025 16:10:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 3 ms Request ID: [799bed2f-4220-4b77-ac9a-caa44f22f850]
+
+Started GET /api/v1/pedidos for :: ::1 at Mon Dec 15 2025 16:10:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 2 ms Request ID: [7359d2a5-dba6-44ba-ac55-6cd42b46bc1c]
+
+Started GET /api/v1/pedidos for :: ::1 at Mon Dec 15 2025 16:10:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 3 ms Request ID: [f6d25399-aa1d-4470-bea9-2efc3121dcef]
+
+Started GET /api/v1/pedidos for :: ::1 at Mon Dec 15 2025 16:10:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 3 ms Request ID: [ffbedbab-400d-4394-b5d5-a72d982a98b2]
+
+Started GET /api/v1/pedidos for :: ::1 at Mon Dec 15 2025 16:10:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 2 ms Request ID: [fc7f6215-3cf7-4427-b1f5-d9a989433f28]
+
+Started GET /api/v1/pedidos for :: ::1 at Mon Dec 15 2025 16:10:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 3 ms Request ID: [173e2a48-6303-4d87-a6f6-3828926080c1]
+
+Started GET /api/v1/pedidos for :: ::1 at Mon Dec 15 2025 16:10:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 2 ms Request ID: [222087e2-9e64-4c3a-a6a2-33abcaa7fc7d]
+
+Started POST /api/v1/pedidos for :: ::1 at Mon Dec 15 2025 16:11:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 4 ms Request ID: [e70f4216-8887-4c36-9585-753c197a14a6]
+
+Started POST /api/v1/pedidos for :: ::1 at Mon Dec 15 2025 16:11:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started POST /api/v1/brands for :: ::1 at Mon Dec 15 2025 16:12:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 15 ms Request ID: [63a8ec43-d7d7-4912-943e-58aa4020a046]
+
+Started GET /api/v1/brands for :: ::1 at Mon Dec 15 2025 16:12:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1092 ms Request ID: [77198edc-2bbf-4dce-a556-8b34373f3b55]
+
+Started POST /api/v1/pedidos for :: ::1 at Mon Dec 15 2025 16:13:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started POST /api/v1/pedidos for :: ::1 at Mon Dec 15 2025 16:26:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Respuestos del sol","productos":[{"sku":"90015-k","cantidad":10}],"direccion_envio ":"Av. Vespucio 1256"}
+Completed: 200 message:  Time response: 3191 ms Request ID: [5822c31a-ccd1-4504-8445-95065181f1c8]
+
+Started GET /api/v1/pedidos for :: ::1 at Mon Dec 15 2025 17:02:56 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 5 ms Request ID: [6c737e08-2c4c-4a3d-b475-a75305e46f01]

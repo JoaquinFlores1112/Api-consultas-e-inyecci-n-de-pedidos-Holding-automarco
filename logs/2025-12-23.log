@@ -1,0 +1,552 @@
+
+Started GET /api/v1/products for :: ::1 at Tue Dec 23 2025 09:18:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 404 message:  Time response: 62 ms Request ID: [3c5b3cb4-cb42-4c45-9490-2bf4efc0e808]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 09:22:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 500 message:  Time response: 32 ms Request ID: [946ba224-4299-4a5b-aeae-cdcd00888366]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 09:30:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 192 ms Request ID: [e023972a-d0e8-4bcc-a0ef-a3190bd658d0]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 09:31:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 8 ms Request ID: [e8f5a94a-6c13-4996-91ab-830cce3e4c50]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 09:34:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 22 ms Request ID: [bdcf6511-c4e1-4da8-a8b7-04646db8844e]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 09:34:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 7 ms Request ID: [79dfe3a0-a6ef-4450-b1cc-b233cf98e446]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 09:34:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 87 ms Request ID: [1fff8465-2965-4a88-9822-830322a76b36]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 09:34:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 8 ms Request ID: [a430198a-7771-46d2-936a-dfaf9d00124d]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 10:24:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 146 ms Request ID: [b2b8f38c-970f-4344-9dd1-feeaef56d622]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 10:48:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 2957 ms Request ID: [67b47a53-bdea-4ff0-97de-cb23d7921a3b]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 10:49:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 8 ms Request ID: [3a422e75-4557-4cf5-95b7-81c87930c264]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 10:50:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":12,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 418 ms Request ID: [886ec219-4511-4c17-9fb4-52029e900f40]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 10:50:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":22,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 667 ms Request ID: [1fb5afb4-beca-4b87-a7c6-3e79c67fd4f8]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 10:50:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":1,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 232 ms Request ID: [444bbb62-3f81-4d82-a97a-fb353917778b]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 10:50:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 418 ms Request ID: [d28ef4c1-a71b-41ac-9df9-8df0c0540f50]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 10:51:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2,"marca_id":15,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 423 ms Request ID: [a8d440fa-7372-42f7-a959-09303060dc94]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 10:51:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":15,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 430 ms Request ID: [948b1d9c-41d8-4610-b457-d43e2c5471c7]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 10:51:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":37,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 431 ms Request ID: [b2362c8a-5d4d-4a80-b353-3a4e5b4f269b]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 10:53:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":37,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 431 ms Request ID: [04398c64-eec8-4dac-9b8a-716ed479c4ee]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 10:54:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 435 ms Request ID: [cc01abb4-7e7b-4ba3-9d31-1132dcd2900d]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 10:54:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":3,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 202 ms Request ID: [62b4e24d-6f09-418c-ad6f-6004daab235e]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 10:55:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":4,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 217 ms Request ID: [c711deab-4f20-4d9c-9138-89dfd7b229f9]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 10:56:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 404 ms Request ID: [f0ef48e2-c160-455d-bff9-c6a33d99d6fb]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 10:57:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":4,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 213 ms Request ID: [1d17d82b-16e6-439b-9105-77edf0758dc6]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 15:18:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":23,"marca_id":14,"modelo_id":"Sail","cili_id":14,"agno":"2018"}
+Completed: 400 message:  Time response: 51 ms Request ID: [288eebdc-94ba-4f42-8bfc-840d2646d4f6]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 15:18:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":4,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 400 message:  Time response: 3 ms Request ID: [49505cc7-598b-4774-b82e-55291600bd4c]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 15:18:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":4,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 403 message:  Time response: 3 ms Request ID: [b73626bb-569d-4ce7-8515-c4b599bce36f]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 15:19:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":4,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 400 message:  Time response: 5 ms Request ID: [0420d6ca-7d60-4fe3-ab9a-94459732980a]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 15:21:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":4,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 250 ms Request ID: [8aa44b01-9d7d-46a6-9b3e-2e0cd3253474]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 15:24:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":4,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 42 ms Request ID: [0b348a7d-179e-4f0a-82bb-de781aaaf7b8]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 15:24:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":4,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 12 ms Request ID: [6084feda-0209-459d-a8e0-1f067519facd]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 15:24:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":4,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 103 ms Request ID: [73c45c64-b54b-4d3c-bfd4-892b76cde421]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 15:24:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":4,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 10 ms Request ID: [2ce409e0-15f1-4585-8e82-c74dc778de1e]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 15:25:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":4,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 2154 ms Request ID: [e4d2fb18-6b32-4f2f-a3d0-b557fa4055b8]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 15:28:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Sail","cili_id":14,"agno":"2018"}
+Completed: 200 message:  Time response: 8 ms Request ID: [36f36be8-50ca-4728-b774-ba2306e3f5a3]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 15:29:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":36,"marca_id":14,"modelo_id":"Sail","cili_id":14,"agno":"2018"}
+Completed: 200 message:  Time response: 616 ms Request ID: [66556da4-968f-4843-963a-9fdbbfee0280]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 15:30:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":35,"marca_id":14,"modelo_id":"Sail","cili_id":14,"agno":"2018"}
+Completed: 200 message:  Time response: 412 ms Request ID: [35218e25-35ef-4cfb-ac38-23dce769542a]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 15:33:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":43,"marca_id":14,"modelo_id":"Santa fe","cili_id":14,"agno":"2018"}
+Completed: 200 message:  Time response: 199 ms Request ID: [d4b7e598-80d3-44b3-8f8a-e0f210f51c6a]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 15:36:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 6 ms Request ID: [7e02134d-d3c4-4654-8015-bd44bf984411]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 15:49:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 98 ms Request ID: [e66d9d91-882e-4162-8d5b-f836fa29d522]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:02:07 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 156 ms Request ID: [d4b02016-05ec-4eff-b419-b852d31d3800]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:02:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 2960 ms Request ID: [a47169d3-2750-46e3-8584-1d828beb1fbc]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:03:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 11 ms Request ID: [a72ace3b-6ff7-4556-bbf5-f0d05b7fcb5d]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:04:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":22,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 804 ms Request ID: [4674d8d3-b71c-4cef-9afb-4e2dd6da0433]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:04:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":22,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 483 ms Request ID: [b914f055-9956-45cd-9428-f0f3dccfcafe]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:05:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":22,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 447 ms Request ID: [f1b8ef0a-db8e-4f8a-a091-adaef9b321f6]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:05:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":22,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 406 ms Request ID: [03a89edc-d27d-4e49-be97-6959969b30c4]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:08:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":22,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 404 ms Request ID: [fb14bbb6-8343-44f0-87f9-baa1007baa19]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:30:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 532 ms Request ID: [f2f84f31-d221-4668-ab7e-7a54e18797b3]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:31:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":15,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 600 ms Request ID: [36b9988e-96f2-48bb-8c90-de017d6cda67]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:32:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":51,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 200 ms Request ID: [6b9a9cfa-93d5-4cb8-8d9e-322b01521e53]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:32:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":1,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 214 ms Request ID: [6cde788b-9a50-4710-8a5b-827d2a2f9c38]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:32:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 397 ms Request ID: [a94d4583-a98b-4e99-b378-087bafddfd66]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:32:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":3,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 204 ms Request ID: [7ffb24e1-c4c3-4076-a8c9-b85adea4b7d5]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:32:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":4,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 219 ms Request ID: [b05540d2-5436-486b-ab26-e6dc32f4933d]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:32:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":5,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 399 ms Request ID: [4f07a764-613d-4e50-9503-4aa8db288267]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:32:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":6,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 213 ms Request ID: [186cb015-cd78-43af-9806-7e74e92d7724]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:32:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":7,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 199 ms Request ID: [3971b975-0ae1-483b-b6c7-70c85aadec3b]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:32:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":8,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 413 ms Request ID: [e7519ee4-57e2-4263-a0e6-99a4320b922f]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:32:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":9,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 411 ms Request ID: [4160996a-85e6-4186-81d4-d7c5623b290d]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:32:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":10,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 210 ms Request ID: [9b573424-e47d-4674-87a7-bfe6e0900dcf]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:33:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":11,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 217 ms Request ID: [7f510c2a-04df-4e4f-b595-fcd25d0c9f84]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:33:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":12,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 209 ms Request ID: [81264a27-32a8-4b0f-8dbc-cc04459cc97d]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:33:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":13,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 218 ms Request ID: [597ab119-9de6-4401-b28a-44e32c7e3670]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:33:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":10,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 218 ms Request ID: [9cc35f3a-110f-4575-8f3a-5fb239459077]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:33:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":13,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 200 ms Request ID: [c7901c5a-0af6-4ca5-8abd-2e39ad428e3d]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:33:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":14,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 211 ms Request ID: [c7a33450-b7fe-4e5f-8976-f8f15709a81d]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:33:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":15,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 596 ms Request ID: [f2f5bb20-12f9-47c5-a74f-b9d153db3c4d]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:34:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":16,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 237 ms Request ID: [35664e7b-92f4-4a96-b687-14b94d996273]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:34:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":17,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 209 ms Request ID: [f0ad9ff6-8d7b-41be-b3ee-e91d6b968f29]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:34:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":18,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 245 ms Request ID: [261771e0-0447-4aba-b26d-5ce0046d094d]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:34:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":19,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 295 ms Request ID: [470f244b-7953-4842-986d-01b6923cea13]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:34:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":20,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 200 ms Request ID: [4f98d426-c5c6-4bb3-a702-85396895bfc9]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:34:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":21,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 206 ms Request ID: [7c869e71-db9c-4278-859f-f610f9db2008]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:34:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":22,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 390 ms Request ID: [0a1e8119-93be-4d35-bd7a-ec147b24d3d9]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:34:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":23,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 223 ms Request ID: [7000f891-6047-4998-abd6-cd960f03c064]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:34:56 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":24,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 200 ms Request ID: [f4ae1f61-21e1-4f0b-aa52-6db004e5a135]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:34:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":26,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 208 ms Request ID: [6e02686d-ce4d-438d-a9d7-a1b3459dbe02]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:35:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":25,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 213 ms Request ID: [4a204ad7-c397-4893-8448-00d0876c2cf5]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:35:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":27,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 200 ms Request ID: [8ec4b43f-96bd-4f28-a903-c2ff83a4a6a8]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:35:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":28,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 226 ms Request ID: [62a57ca0-8cd8-4433-a982-c0f5049d1e38]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:35:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":29,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 209 ms Request ID: [534d6b08-a0f5-4a2c-80da-bfa9d59bafb7]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:35:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":30,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 320 ms Request ID: [1eef3ec6-f262-46cf-8987-b325f329f0d3]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:35:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":31,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 205 ms Request ID: [5b02ba23-650d-48c4-8e95-2c344b1e2c57]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:35:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":32,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 204 ms Request ID: [1e4718b6-21d1-4865-9eb1-f922c8b77f04]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:35:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":33,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 198 ms Request ID: [e48b6349-f335-4a49-b0fe-59d2d566e3b6]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:35:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":34,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 201 ms Request ID: [02861cd0-e442-4cd3-8832-23093f79f8ec]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:35:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":35,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 428 ms Request ID: [a442a88d-cee4-44d9-adc3-12480e753d2a]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:36:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":36,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 384 ms Request ID: [39467cd2-aa25-4b71-8e93-3ef535d1e3a5]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:36:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":37,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 592 ms Request ID: [02903b3a-aeb4-4b18-bcdf-e6e3b2ec77bb]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:36:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":38,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 389 ms Request ID: [ea09d553-fabf-4406-a5c7-68c9f98696d4]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:36:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":39,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 224 ms Request ID: [4111c607-27e0-42a5-a360-a28b145803dd]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:36:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":40,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 206 ms Request ID: [c43f9674-2840-4c65-b7a7-fcc9a32c4b43]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:36:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":41,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 193 ms Request ID: [6cc69dad-ab72-488c-a657-1ce3de032b14]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:36:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":42,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 197 ms Request ID: [c54be798-2727-459b-9bf0-26b67feb3597]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:36:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":43,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 201 ms Request ID: [b6fa54c2-70f6-4b6d-a9c5-5fbd3f896384]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:36:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":44,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 190 ms Request ID: [9dfeb67e-14c9-473b-9803-386c8274868b]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:36:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":45,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 191 ms Request ID: [7895f154-61a7-4aa9-bd5c-ec02aedb3181]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:36:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":46,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 190 ms Request ID: [e92673c7-108a-4170-b3b1-3f8f610af719]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:36:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":47,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 193 ms Request ID: [a964c781-349f-4e21-8465-4416570eea78]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:36:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":48,"marca_id":14,"modelo_id":"sail","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 193 ms Request ID: [4ecf28d1-b967-4b2b-946e-1fb154fd7682]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:37:07 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":48,"marca_id":43,"modelo_id":"santa fe","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 209 ms Request ID: [2baeacb2-33cf-4fb8-b61a-903f57f032c0]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:37:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":48,"marca_id":43,"modelo_id":"santa fe","cili_id":25,"agno":"2018"}
+Completed: 200 message:  Time response: 191 ms Request ID: [c3a26d97-e254-4bca-ab6e-599eaa209288]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:38:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":1,"marca_id":43,"modelo_id":"santa fe","cili_id":25,"agno":"2018"}
+Completed: 200 message:  Time response: 205 ms Request ID: [a9af3a90-cef2-49d6-b4bc-819772ecfcce]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:38:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2,"marca_id":43,"modelo_id":"santa fe","cili_id":25,"agno":"2018"}
+Completed: 200 message:  Time response: 387 ms Request ID: [28c32dc6-1deb-42fa-b445-1cb8b752ecda]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:38:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":4,"marca_id":43,"modelo_id":"santa fe","cili_id":25,"agno":"2018"}
+Completed: 200 message:  Time response: 204 ms Request ID: [055f9418-ee0a-41c4-81b6-a440371cdc52]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:38:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":3,"marca_id":43,"modelo_id":"santa fe","cili_id":25,"agno":"2018"}
+Completed: 200 message:  Time response: 198 ms Request ID: [9ddb1d81-538a-4454-a7c8-6650f32de03f]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:38:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":5,"marca_id":43,"modelo_id":"santa fe","cili_id":25,"agno":"2018"}
+Completed: 200 message:  Time response: 382 ms Request ID: [8fee830a-c514-406a-a461-50672b387529]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:38:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":6,"marca_id":43,"modelo_id":"santa fe","cili_id":25,"agno":"2018"}
+Completed: 200 message:  Time response: 204 ms Request ID: [6f25b724-c903-436b-86f5-b978a797298e]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:38:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":7,"marca_id":43,"modelo_id":"santa fe","cili_id":25,"agno":"2018"}
+Completed: 200 message:  Time response: 198 ms Request ID: [9dda36ed-6b4f-4401-b12d-16b2f05f6740]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:38:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":8,"marca_id":43,"modelo_id":"santa fe","cili_id":25,"agno":"2018"}
+Completed: 200 message:  Time response: 388 ms Request ID: [a16f213e-4600-429a-841d-b2cadc681979]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:38:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":9,"marca_id":43,"modelo_id":"santa fe","cili_id":25,"agno":"2018"}
+Completed: 200 message:  Time response: 383 ms Request ID: [884f1596-10eb-4d1a-8ea8-841bc796baa6]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:38:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":10,"marca_id":43,"modelo_id":"santa fe","cili_id":25,"agno":"2018"}
+Completed: 200 message:  Time response: 220 ms Request ID: [bc44b4ac-2554-4a1b-a52e-dc28bcb99285]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:38:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":11,"marca_id":43,"modelo_id":"santa fe","cili_id":25,"agno":"2018"}
+Completed: 200 message:  Time response: 200 ms Request ID: [881eadf6-7733-4217-b452-56cec1256d16]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:38:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":1,"marca_id":43,"modelo_id":"santa fe","cili_id":25,"agno":"2018"}
+Completed: 200 message:  Time response: 199 ms Request ID: [af1426a2-eb0a-4eeb-bfee-005eef6dff85]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:39:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":1,"marca_id":43,"modelo_id":"santa fe","cili_id":25,"agno":"2018"}
+Completed: 200 message:  Time response: 183 ms Request ID: [da612ab7-9d1c-4540-93c6-33f3fe91512b]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:49:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":6,"marca_id":43,"modelo_id":"santa fe","cili_id":25,"agno":"2018"}
+Completed: 200 message:  Time response: 28 ms Request ID: [1d17c4b3-e3b1-488b-b47e-81ab6dc88bf3]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:49:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":10,"marca_id":43,"modelo_id":"santa fe","cili_id":25,"agno":"2018"}
+Completed: 200 message:  Time response: 14 ms Request ID: [3ae19034-2f3d-4082-be44-ba9d8405a6fc]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:49:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":11,"marca_id":43,"modelo_id":"santa fe","cili_id":25,"agno":"2018"}
+Completed: 200 message:  Time response: 8 ms Request ID: [28ba82dc-dc04-49e6-926b-b97c1db8044c]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:49:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":12,"marca_id":43,"modelo_id":"santa fe","cili_id":25,"agno":"2018"}
+Completed: 200 message:  Time response: 19 ms Request ID: [627b1696-cb03-405c-957d-61f34ec1fffa]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:49:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":13,"marca_id":43,"modelo_id":"santa fe","cili_id":25,"agno":"2018"}
+Completed: 200 message:  Time response: 9 ms Request ID: [027b2911-ce82-4c9a-ab03-c0614fe28d58]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:49:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":14,"marca_id":43,"modelo_id":"santa fe","cili_id":25,"agno":"2018"}
+Completed: 200 message:  Time response: 9 ms Request ID: [f462b1c2-2f4a-4ed5-a8f9-3a4b565b7d06]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:49:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":15,"marca_id":43,"modelo_id":"santa fe","cili_id":25,"agno":"2018"}
+Completed: 200 message:  Time response: 117 ms Request ID: [6882ccf3-87f4-4a34-9551-dc3de1c756e8]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:49:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":16,"marca_id":43,"modelo_id":"santa fe","cili_id":25,"agno":"2018"}
+Completed: 200 message:  Time response: 25 ms Request ID: [6166454a-3dce-4b04-9fe8-be5c2470f7a8]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:49:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":17,"marca_id":43,"modelo_id":"santa fe","cili_id":25,"agno":"2018"}
+Completed: 200 message:  Time response: 10 ms Request ID: [9e260a14-5b38-42e5-98b7-6953682965d3]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:50:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":18,"marca_id":43,"modelo_id":"santa fe","cili_id":25,"agno":"2018"}
+Completed: 200 message:  Time response: 17 ms Request ID: [677184ad-a072-4a8c-bd8a-c1fd32f6fa28]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:50:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":19,"marca_id":43,"modelo_id":"santa fe","cili_id":25,"agno":"2018"}
+Completed: 200 message:  Time response: 8 ms Request ID: [a6346b07-e32f-4454-b4cf-3c23060bbbba]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:50:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":29,"marca_id":43,"modelo_id":"santa fe","cili_id":25,"agno":"2018"}
+Completed: 200 message:  Time response: 33 ms Request ID: [d72f3f27-9a61-4ab5-9a92-6cfccbdcf829]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:50:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":30,"marca_id":43,"modelo_id":"santa fe","cili_id":25,"agno":"2018"}
+Completed: 200 message:  Time response: 20 ms Request ID: [27fb4e26-00b1-4b0a-9276-a9e18a097191]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:50:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":31,"marca_id":43,"modelo_id":"santa fe","cili_id":25,"agno":"2018"}
+Completed: 200 message:  Time response: 42 ms Request ID: [376953dd-0922-4606-ac7c-665056c85c5b]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:50:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":32,"marca_id":43,"modelo_id":"santa fe","cili_id":25,"agno":"2018"}
+Completed: 200 message:  Time response: 8 ms Request ID: [9b555a17-2908-44d6-8b74-ae4a9b6920c2]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:50:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":34,"marca_id":43,"modelo_id":"santa fe","cili_id":25,"agno":"2018"}
+Completed: 200 message:  Time response: 9 ms Request ID: [dc806e7b-3cfa-4d38-9296-80cddb27fb6e]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:50:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":35,"marca_id":43,"modelo_id":"santa fe","cili_id":25,"agno":"2018"}
+Completed: 200 message:  Time response: 22 ms Request ID: [876ac110-4b84-4226-ab0f-f5339a47aef2]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:50:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":1,"marca_id":43,"modelo_id":"santa fe","cili_id":2.5,"agno":"2018"}
+Completed: 200 message:  Time response: 8 ms Request ID: [9c148680-8ee6-4f4a-9f48-9d0e80e87a0d]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:51:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2,"marca_id":43,"modelo_id":"santa fe","cili_id":2.5,"agno":"2018"}
+Completed: 200 message:  Time response: 9 ms Request ID: [a27238ac-ce53-4b29-bcdd-b66a57193fd4]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:51:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":4,"marca_id":43,"modelo_id":"santa fe","cili_id":2.5,"agno":"2018"}
+Completed: 200 message:  Time response: 8 ms Request ID: [7669a53c-65e1-4f21-82fd-b1e428db3a49]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:51:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":3,"marca_id":43,"modelo_id":"santa fe","cili_id":2.5,"agno":"2018"}
+Completed: 200 message:  Time response: 7 ms Request ID: [02d3fc9b-2d68-477b-88b6-32d682486845]
+
+Started POST /api/v1/products for :: ::1 at Tue Dec 23 2025 17:51:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":40,"marca_id":43,"modelo_id":"santa fe","cili_id":2.5,"agno":"2018"}
+Completed: 200 message:  Time response: 9 ms Request ID: [8492f02a-6da7-4bd2-ab22-1cbdb6ddc294]

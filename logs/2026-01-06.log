@@ -1,0 +1,84 @@
+
+Started GET /api/v1/products for :: ::1 at Tue Jan 06 2026 10:05:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Repuestos del sol","productos":[{"sku":"90015-k","cantidad":10},{"sku":"10328-4","cantidad":10}],"direccion_envio":"Av. vespucio 1256","tran_id":"2"}
+Completed: 404 message:  Time response: 228 ms Request ID: [46fe7611-2b5d-4c9c-8767-033c4097335b]
+
+Started GET /api/v1/products for :: ::1 at Tue Jan 06 2026 10:06:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 17 ms Request ID: [066f48e6-825a-4358-a9ad-5d9eaaad552a]
+
+Started GET /api/v1/products for :: ::1 at Tue Jan 06 2026 10:06:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 13 ms Request ID: [65647ccd-d243-45e0-aa25-38dd819e8d17]
+
+Started GET /api/v1/models for :: ::1 at Tue Jan 06 2026 10:06:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2248 ms Request ID: [1fdf929d-29c0-4919-9819-398e036ce2fb]
+
+Started GET /api/v1/models for :: ::1 at Tue Jan 06 2026 10:10:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1621 ms Request ID: [a02920cb-048c-4754-be09-cb298ef13e08]
+
+Started GET /api/v1/models for :: ::1 at Tue Jan 06 2026 10:10:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1649 ms Request ID: [555eff46-c54e-4333-a669-19c3938689df]
+
+Started GET /api/v1/models for :: ::1 at Tue Jan 06 2026 10:10:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1680 ms Request ID: [098333eb-8e16-41e9-a939-0485a4f73be4]
+
+Started GET /api/v1/models for :: ::1 at Tue Jan 06 2026 10:10:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1660 ms Request ID: [ceaf66bd-e24d-44ae-9a1e-9dd8faf9c501]
+
+Started GET /api/v1/models for :: ::1 at Tue Jan 06 2026 12:17:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2083 ms Request ID: [5089b145-dc48-44c7-9234-97d6060df98c]
+
+Started GET /api/v1/models for :: ::1 at Tue Jan 06 2026 12:19:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1726 ms Request ID: [e1edef41-274c-4525-a598-e6d191ee5751]
+
+Started GET /api/v1/models for :: ::1 at Tue Jan 06 2026 12:43:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1659 ms Request ID: [14366f88-f1db-4aad-8741-22361eac519f]
+
+Started GET /api/v1/models for :: ::1 at Tue Jan 06 2026 12:43:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1645 ms Request ID: [524ead23-17a2-4806-868c-4df874262562]
+
+Started GET /api/v1/models for :: ::1 at Tue Jan 06 2026 15:46:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1982 ms Request ID: [14ec3041-b8ce-4e84-8997-c4db07daebb3]
+
+Started GET /api/v1/models?order_by=nombre__ASC&marca_id=1 for :: ::1 at Tue Jan 06 2026 16:32:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 43 ms Request ID: [63f850bb-4f21-4fad-835f-3a31d392611a]
+
+Started GET /api/v1/models?order_by=nombre__ASC&marca_id=1 for :: ::1 at Tue Jan 06 2026 16:34:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 3 ms Request ID: [404bf3a1-9aaa-4f4f-a5ea-41f39032f2cc]
+
+Started GET /api/v1/models?order_by=nombre__ASC&marca_id=1 for :: ::1 at Tue Jan 06 2026 16:34:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 3 ms Request ID: [960c90d7-f3e4-4bba-9992-3e245b0ee06f]
+
+Started GET /api/v1/models?order_by=nombre__ASC&marca_id=1 for :: ::1 at Tue Jan 06 2026 16:34:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 3 ms Request ID: [c8116a3b-7aba-4ca8-8cd7-48670b6ec2f8]
+
+Started GET /api/v1/models?order_by=nombre__ASC&marca_id=0 for :: ::1 at Tue Jan 06 2026 17:03:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1783 ms Request ID: [d1900d48-df9b-443b-93ce-71d3d2b8ff96]
+
+Started GET /api/v1/models?order_by=id_ASC&marca_id=0 for :: ::1 at Tue Jan 06 2026 17:03:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 837 ms Request ID: [d7b24fa5-2ed6-4e93-80d3-dc464e73176d]
+
+Started GET /api/v1/models?order_by=id__ASC&marca_id=0 for :: ::1 at Tue Jan 06 2026 17:04:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1525 ms Request ID: [aebabd15-b50c-44c9-af16-367fd1ea0773]
+
+Started GET /api/v1/models?order_by=marca_id__ASC&marca_id=0 for :: ::1 at Tue Jan 06 2026 17:33:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1563 ms Request ID: [710ec346-0d14-4dcd-8db6-8f525d28c510]

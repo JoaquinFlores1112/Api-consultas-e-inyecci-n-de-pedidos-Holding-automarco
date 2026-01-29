@@ -1,0 +1,4 @@
+
+Started GET /api/v1/products for :: ::1 at Mon Dec 22 2025 12:51:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 404 message:  Time response: 57 ms Request ID: [613514d3-6de8-495c-b448-756ce4e960b0]

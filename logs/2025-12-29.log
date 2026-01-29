@@ -1,0 +1,52 @@
+
+Started GET /api/v1/brands for :: ::1 at Mon Dec 29 2025 11:19:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 30 ms Request ID: [0fbddb27-5af7-480b-9397-618bbf6f14d3]
+
+Started GET /favicon.ico for :: ::1 at Mon Dec 29 2025 11:19:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 7 ms Request ID: [c1aec978-3af8-4eed-896c-e508fd6d387b]
+
+Started GET /api/v1/transportes for :: ::1 at Mon Dec 29 2025 11:19:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 3 ms Request ID: [f78bfd1a-dea1-421b-8914-040ab473356b]
+
+Started POST /api/v1/transportes for :: ::1 at Mon Dec 29 2025 11:19:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 31 ms Request ID: [50ea858d-84e0-4378-b2d4-765838397632]
+
+Started POST /api/v1/transportes for :: ::1 at Mon Dec 29 2025 11:20:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 20 ms Request ID: [cf3132c8-cc49-42b3-9447-98297630c5ab]
+
+Started GET /api/v1/transportes for :: ::1 at Mon Dec 29 2025 11:20:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 194 ms Request ID: [e8d77c33-8b4b-4283-83d0-a3d7ed1c5e83]
+
+Started GET /api/v1/transportes for :: ::1 at Mon Dec 29 2025 11:21:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 77 ms Request ID: [33472c8d-1945-42e2-8f15-6f245e0a4d7a]
+
+Started GET /api/v1/formas for :: ::1 at Mon Dec 29 2025 11:47:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 114 ms Request ID: [2340c229-6a1b-46a6-ada2-ae03beda372a]
+
+Started GET /api/v1/formas for :: ::1 at Mon Dec 29 2025 12:27:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 4 ms Request ID: [03b3ee22-68e9-4ac3-83de-69b787ddadaa]
+
+Started GET /api/v1/condiciones for :: ::1 at Mon Dec 29 2025 17:13:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 34 ms Request ID: [b14a26f8-da4c-4956-aa72-c0d16da15d97]
+
+Started GET /api/v1/condiciones for :: ::1 at Mon Dec 29 2025 17:13:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 131 ms Request ID: [c3347c5e-1ec7-4842-b7c3-a50b192cfbd2]
+
+Started GET /api/v1/condiciones for :: ::1 at Mon Dec 29 2025 17:14:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 73 ms Request ID: [ba26c9f9-69b8-457b-a2a0-2ce4c598cb7b]
+
+Started GET /api/v1/condiciones for :: ::1 at Mon Dec 29 2025 17:15:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 94 ms Request ID: [9823611c-2d57-4658-a22b-a375fd1da3b5]

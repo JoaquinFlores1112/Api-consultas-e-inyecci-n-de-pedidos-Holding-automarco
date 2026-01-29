@@ -1,0 +1,76 @@
+
+Started GET /api/v1/category for :: ::1 at Tue Dec 16 2025 09:13:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 27 ms Request ID: [7cbfd3c0-acb6-4618-9f5b-0b579b038b47]
+
+Started GET /favicon.ico for :: ::1 at Tue Dec 16 2025 09:13:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 6 ms Request ID: [6f991797-9e1c-4e57-98e0-b8e4e01cca9e]
+
+Started POST /api/v1/pedidos for :: ::1 at Tue Dec 16 2025 09:18:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Respuestos del sol","productos":[{"sku":"90015-k","cantidad":10}],"direccion_envio":"Av. Vespucio 1256"}
+Completed: 401 message:  Time response: 4 ms Request ID: [c77f866b-bc5a-4f12-bfb5-0f2be51e981c]
+
+Started POST /api/v1/pedidos for :: ::1 at Tue Dec 16 2025 09:19:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started POST /api/v1/pedidos for :: ::1 at Tue Dec 16 2025 09:20:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Respuestos del sol","productos":[{"sku":"90015-k","cantidad":10}],"direccion_envio":"Av. Vespucio 1256"}
+Started GET /api/v1/category for :: ::1 at Tue Dec 16 2025 09:36:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 6 ms Request ID: [1746c33c-5232-4df5-b921-64c0a51e37a9]
+
+Started GET /api/v1/category for :: ::1 at Tue Dec 16 2025 10:04:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 8 ms Request ID: [d2709804-3fc9-4547-b2b9-e0b5f66fd74f]
+
+Started POST /api/v1/pedidos for :: ::1 at Tue Dec 16 2025 10:20:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Respuestos del sol","productos":[{"sku":"90015-k","cantidad":10}],"direccion_envio":"Av. Vespucio 1256"}
+Started GET /api/v1/category for :: ::1 at Tue Dec 16 2025 10:39:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 22 ms Request ID: [62058301-b73f-46a3-af30-88bd56943641]
+
+Started GET /api/v1/category for :: ::1 at Tue Dec 16 2025 11:16:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 21 ms Request ID: [3dd44bd1-2456-4074-9a44-d333d468d984]
+
+Started POST /api/v1/pedidos for :: ::1 at Tue Dec 16 2025 11:52:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Respuestos del sol","productos":[{"sku":"90015-k","cantidad":10}],"direccion_envio":"Av. Vespucio 1256"}
+Started POST /api/v1/pedidos for :: ::1 at Tue Dec 16 2025 12:35:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Respuestos del sol","productos":[{"sku":"90015-k","cantidad":10}],"direccion_envio":"Av. Vespucio 1256"}
+Started GET /api/v1/category for :: ::1 at Tue Dec 16 2025 12:50:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 17 ms Request ID: [4a07b2cb-e7cb-4da2-9e71-2333c23d41f6]
+
+Started GET /favicon.ico for :: ::1 at Tue Dec 16 2025 12:50:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 5 ms Request ID: [8e9d25de-79d8-4dde-8dc1-b7ac8676cbb7]
+
+Started GET /api/v1/category for :: ::1 at Tue Dec 16 2025 13:02:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 8 ms Request ID: [4748de3e-5303-49c5-92fc-04269c18ceb0]
+
+Started POST /api/v1/pedidos for :: ::1 at Tue Dec 16 2025 13:44:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Respuestos del sol","productos":[{"sku":"90015-k","cantidad":10}],"direccion_envio":"Av. Vespucio 1256"}
+Started POST /api/v1/pedidos for :: ::1 at Tue Dec 16 2025 15:04:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Respuestos del sol","productos":[{"sku":"90015-k","cantidad":10}],"direccion_envio":"Av. Vespucio 1256"}
+Started POST /api/v1/pedidos for :: ::1 at Tue Dec 16 2025 15:29:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Respuestos del sol","productos":[{"sku":"90015-k","cantidad":10}],"direccion_envio":"Av. Vespucio 1256"}
+Started POST /api/v1/pedidos for :: ::1 at Tue Dec 16 2025 15:54:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Respuestos del sol","productos":[{"sku":"90015-k","cantidad":10}],"direccion_envio":"Av. Vespucio 1256"}
+Completed: 200 message:  Time response: 137 ms Request ID: [bf586ecd-ca85-4fb1-8df7-52cb3c03da33]
+
+Started POST /api/v1/pedidos for :: ::1 at Tue Dec 16 2025 15:59:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Respuestos del sol","productos":[{"sku":"90000-1","cantidad":10}],"direccion_envio":"Av. Vespucio 1256"}
+Completed: 200 message:  Time response: 31 ms Request ID: [c5b204d7-14eb-4f54-ba6b-2ee7b9e31b39]
+
+Started GET /api/v1/category for :: ::1 at Tue Dec 16 2025 17:31:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 93 ms Request ID: [6ae0b2f2-2c07-427a-b81a-964687f6348a]
+
+Started POST /api/v1/pedidos for :: ::1 at Tue Dec 16 2025 17:45:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Respuestos del sol","productos":[{"sku":"90015-k","cantidad":10}],"direccion_envio":"Av. Vespucio 1256"}
+Completed: 200 message:  Time response: 200 ms Request ID: [10a22176-c804-4d35-958c-3cc79c343b40]
+
+Started POST /api/v1/pedidos for :: ::1 at Tue Dec 16 2025 17:54:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Respuestos del sol","productos":[{"sku":"90015-k","cantidad":10}],"direccion_envio":"Av. Vespucio 1256"}
+Completed: 200 message:  Time response: 25 ms Request ID: [d202a50f-04c6-4775-a5eb-9de58386505b]

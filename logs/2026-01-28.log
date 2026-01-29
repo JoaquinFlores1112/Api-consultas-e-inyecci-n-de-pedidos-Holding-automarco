@@ -1,0 +1,4 @@
+
+Started POST /api/v1/ocdefinitiva for :: ::1 at Wed Jan 28 2026 10:43:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"tran_id":"2","sucursales":{"AUTOMARCO":"0","GABTEC":"0"},"productos":[{"sku":"70012-6","cantidad":10},{"sku":"10328-4","cantidad":10}]}
+Completed: 400 message:  Time response: 140 ms Request ID: [379bf0e3-2bb9-4105-9329-6488dde95c1e]

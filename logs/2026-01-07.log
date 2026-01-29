@@ -1,0 +1,190 @@
+
+Started GET /api/v1/models for :: ::1 at Wed Jan 07 2026 08:22:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3079 ms Request ID: [a7685310-e08d-45e4-b5dd-4d3e339514a2]
+
+Started GET /api/v1/models?order_by=marca_id__ASC&marca_id=8 for :: ::1 at Wed Jan 07 2026 08:23:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 9 ms Request ID: [87caecf9-3a8c-4e32-852d-f07073638b3e]
+
+Started GET /api/v1/models?order_by=marca_id__ASC&marca_id=8 for :: ::1 at Wed Jan 07 2026 08:23:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 15 ms Request ID: [2bdfa850-9665-4236-9f2f-aa2ab24fb121]
+
+Started GET /api/v1/models?order_by=marca_id__ASC&marca_id=8 for :: ::1 at Wed Jan 07 2026 08:23:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 978 ms Request ID: [b8472087-6c76-4bee-afb0-510742b0ea1d]
+
+Started GET /api/v1/models?order_by=marca_id__ASC&marca_id=55 for :: ::1 at Wed Jan 07 2026 08:42:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 941 ms Request ID: [c8157d1f-4991-4705-a425-8797a68aaee1]
+
+Started GET /api/v1/models?order_by=marca_id__ASC&marca_id=5 for :: ::1 at Wed Jan 07 2026 08:42:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 957 ms Request ID: [a7ef26c8-00da-440f-9638-f69fe158bb4d]
+
+Started GET /api/v1//models?marca_id=27&order_by=modelo__asc for :: ::1 at Wed Jan 07 2026 08:43:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 999 ms Request ID: [73972dcc-70e5-4c61-be6d-eb2208608faf]
+
+Started GET /api/v1//models?marca=%27chevrolet%27 for :: ::1 at Wed Jan 07 2026 08:43:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1579 ms Request ID: [96c6edd1-47d0-41aa-81e2-dc75a2c6df6a]
+
+Started GET /api/v1//models?marca_id=14 for :: ::1 at Wed Jan 07 2026 08:44:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 974 ms Request ID: [404769a6-eff5-45c7-b332-1965d34817e6]
+
+Started GET /api/v1//productos for :: ::1 at Wed Jan 07 2026 09:13:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 404 message:  Time response: 20 ms Request ID: [5e9587ae-7cdc-4bb9-b49e-65e9bf804322]
+
+Started POST /api/v1//productos for :: ::1 at Wed Jan 07 2026 09:13:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 404 message:  Time response: 12 ms Request ID: [4ed21e46-5809-4079-8011-4ce6c9bc3214]
+
+Started POST /api/v1//products for :: ::1 at Wed Jan 07 2026 09:14:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 405 ms Request ID: [4f053f92-8f52-4312-8a35-8c7d487420ce]
+
+Started POST /api/v1//products for :: ::1 at Wed Jan 07 2026 09:15:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 12 ms Request ID: [920cf9b0-364d-417b-b593-07c5437616e6]
+
+Started POST /api/v1/products for :: ::1 at Wed Jan 07 2026 09:18:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 18 ms Request ID: [6d2519a5-3d13-4446-bbc9-085f0f05875d]
+
+Started POST /api/v1/products for :: ::1 at Wed Jan 07 2026 09:20:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2}
+Completed: 200 message:  Time response: 3049 ms Request ID: [3ae9434c-db2d-4f5b-9448-21993ce8f5f4]
+
+Started GET /api/v1/models?order_by=marca_id__ASC&marca_id=5 for :: ::1 at Wed Jan 07 2026 09:31:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 4 ms Request ID: [30cb5e70-08e7-4494-a49d-381337697107]
+
+Started GET /api/v1/models?order_by=marca_id__ASC&marca_id=5 for :: ::1 at Wed Jan 07 2026 09:31:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 933 ms Request ID: [a48898b7-dfd6-49a8-9c48-2ea25379acdd]
+
+Started GET /api/v1/models?order_by=marca_id__ASC&marca_id=0 for :: ::1 at Wed Jan 07 2026 09:43:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1672 ms Request ID: [aacb86e3-bf98-4ca2-a141-33cfd0b880a0]
+
+Started POST /api/v1/products for :: ::1 at Wed Jan 07 2026 10:25:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 51 ms Request ID: [05f37ceb-f72f-4217-bd6c-7367c81de476]
+
+Started POST /api/v1/products for :: ::1 at Wed Jan 07 2026 10:39:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 156 ms Request ID: [12c5b9a6-8b90-4e08-8e6c-6d904872bc7c]
+
+Started POST /api/v1/products for :: ::1 at Wed Jan 07 2026 10:39:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2}
+Completed: 400 message:  Time response: 4 ms Request ID: [fdcbeb3f-f27b-4ff6-8ca0-e0fbfda59a95]
+
+Started POST /api/v1/products for :: ::1 at Wed Jan 07 2026 10:39:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2}
+Completed: 200 message:  Time response: 2592 ms Request ID: [2ad18d48-9de5-4b1d-a8f2-12eaf82aed69]
+
+Started POST /api/v1/products for :: ::1 at Wed Jan 07 2026 10:39:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 18 ms Request ID: [d2453688-aa7f-41ed-bd4b-379f181e1b04]
+
+Started POST /api/v1/ocdefinitiva for :: ::1 at Wed Jan 07 2026 10:46:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started POST /api/v1/products for :: ::1 at Wed Jan 07 2026 10:53:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 4785 ms Request ID: [59d2091b-191a-41d2-b3c1-b7d04335f3b9]
+
+Started POST /api/v1/products for :: ::1 at Wed Jan 07 2026 10:56:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 13 ms Request ID: [08c77674-c6b9-4888-8cd5-b4cadb387ca9]
+
+Started GET /api/v1/transportes for :: ::1 at Wed Jan 07 2026 11:26:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 201 ms Request ID: [c1a99564-302b-4f4a-a5f0-411b5f99ae9d]
+
+Started GET /api/v1/models?order_by=marca_id__ASC&marca_id=14 for :: ::1 at Wed Jan 07 2026 11:45:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 25 ms Request ID: [8eb997a1-c750-41a8-87df-1cefd47db68d]
+
+Started GET /api/v1/models?order_by=marca_id__ASC&marca_id=14 for :: ::1 at Wed Jan 07 2026 11:45:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1159 ms Request ID: [512f4270-e5c6-41c7-a285-5c122b9229d0]
+
+Started GET /api/v1/brands for :: ::1 at Wed Jan 07 2026 13:11:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 969 ms Request ID: [fa31d4c5-c2a0-4def-8205-bd9863e19f74]
+
+Started GET /api/v1/category for :: ::1 at Wed Jan 07 2026 13:51:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1037 ms Request ID: [e9df3cad-93ad-480f-b83b-5e03e75717ba]
+
+Started GET /api/v1/category for :: ::1 at Wed Jan 07 2026 13:51:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 1072 ms Request ID: [9471a80c-a196-48b2-8e05-1c04a02fbdd2]
+
+Started GET /api/v1/brands for :: ::1 at Wed Jan 07 2026 15:28:56 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 21 ms Request ID: [0fde030b-02a6-4556-9862-81f82e960b70]
+
+Started GET /favicon.ico for :: ::1 at Wed Jan 07 2026 15:28:56 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 8 ms Request ID: [56bed082-e9fe-4487-95a8-d002e00b2f94]
+
+Started GET /api/v1/api-docs for :: ::1 at Wed Jan 07 2026 15:29:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 3 ms Request ID: [ffadc054-a0b8-4140-89c5-8966206b161c]
+
+Started GET /api/v1/api-docs for :: ::1 at Wed Jan 07 2026 15:31:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 3 ms Request ID: [1e08d922-fa54-4401-9335-21f599cf9244]
+
+Started GET /api/v1/api-docs for :: ::1 at Wed Jan 07 2026 15:35:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 11 ms Request ID: [2f86a90c-a531-4244-81f2-8dee8820357e]
+
+Started GET /api/v1/api-docs for :: ::1 at Wed Jan 07 2026 15:35:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 4 ms Request ID: [428936c2-d37e-43e6-9522-808ebb28060b]
+
+Started POST /api/v1/products for :: ::1 at Wed Jan 07 2026 15:49:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":10,"marca_id":14,"modelo_id":550,"cili_id":5,"agno":2022,"page":1,"limits":3,"order_by":"nombre__ASC"}
+Completed: 200 message:  Time response: 445 ms Request ID: [614ef690-4819-4ab1-8a4f-3b38d49c9324]
+
+Started POST /api/v1/products for :: ::1 at Wed Jan 07 2026 15:50:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2}
+Completed: 200 message:  Time response: 2754 ms Request ID: [d5a7943e-17cd-4162-baf9-5904fb42050b]
+
+Started POST /api/v1/products for :: ::1 at Wed Jan 07 2026 16:05:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 11 ms Request ID: [cfaf1e10-aec7-4cba-967f-1c81e65f7d1d]
+
+Started POST /api/v1/products for :: ::1 at Wed Jan 07 2026 16:05:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 9 ms Request ID: [12d494fe-dcf8-4cd3-8308-dfb95750238f]
+
+Started POST /api/v1/products for :: ::1 at Wed Jan 07 2026 16:06:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 15 ms Request ID: [3a293dcd-aa17-49b6-9d22-c3be752c714a]
+
+Started POST /api/v1/products for :: ::1 at Wed Jan 07 2026 16:06:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 2140 ms Request ID: [a541d5e9-d919-4d0a-a2ce-1cd5be9e1f88]
+
+Started POST /api/v1/products for :: ::1 at Wed Jan 07 2026 16:06:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 1163 ms Request ID: [2c066922-9e7b-4c5b-ad35-d9f2268f7a3d]
+
+Started POST /api/v1/pedidos for :: ::1 at Wed Jan 07 2026 17:13:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Repuestos del sol","productos":[{"sku":"90015-k","cantidad":10},{"sku":"10328-4","cantidad":10}],"direccion_envio":"Av. vespucio 1256","tran_id":"2"}
+Completed: 200 message:  Time response: 811 ms Request ID: [3a7659f0-cf7b-4f09-888b-8efcbb0ff524]
+
+Started GET /api/v1/cilindrada?order_by=cili_id__ASC for :: ::1 at Wed Jan 07 2026 17:54:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 39 ms Request ID: [d22302c4-10f3-4dd8-baf9-10472f94d4ca]
+
+Started GET /api/v1/cilindrada?order_by=cili_id__ASC for :: ::1 at Wed Jan 07 2026 17:54:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1229 ms Request ID: [28a0a41e-3c1f-4227-b99b-5a9a4f99baae]

@@ -1,0 +1,8 @@
+
+Started POST /api/v1/pedidos for :: ::1 at Thu Jan 22 2026 17:44:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2}
+Completed: 500 message:  Time response: 340 ms Request ID: [809236cd-d53e-47d2-86aa-d14468a32427]
+
+Started POST /api/v1/pedidos for :: ::1 at Thu Jan 22 2026 17:45:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Repuestos del sol","tran_id":"2","sucursales":{"AUTOMARCO":"0","GABTEC":"1"},"productos":[{"sku":"70012-6","cantidad":10},{"sku":"10328-4","cantidad":10}]}
+Completed: 500 message:  Time response: 14 ms Request ID: [426ac246-1f3b-4cb2-a970-e8a051b88899]

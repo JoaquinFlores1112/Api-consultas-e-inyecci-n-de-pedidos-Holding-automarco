@@ -1,0 +1,148 @@
+
+Started POST /api/v1/pedidos for :: ::1 at Tue Jan 20 2026 08:50:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Repuestos del sol","tran_id":"2","sucursales":{"AUTOMARCO":"0","HD":"0"},"productos":[{"sku":"70012-6","cantidad":10},{"sku":"10328-4","cantidad":10}]}
+Completed: 200 message:  Time response: 895 ms Request ID: [b5b95822-5462-4a14-97ce-c1858af4e2e6]
+
+Started POST /api/v1/sucursales for :: ::1 at Tue Jan 20 2026 09:39:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Repuestos del sol","tran_id":"2","sucursales":{"AUTOMARCO":"0","HD":"0"},"productos":[{"sku":"70012-6","cantidad":10},{"sku":"10328-4","cantidad":10}]}
+Completed: 404 message:  Time response: 207 ms Request ID: [981c1772-d25d-4883-8406-1da2f6daf088]
+
+Started POST /api/v1/sucursales for :: ::1 at Tue Jan 20 2026 09:39:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 10 ms Request ID: [ba1c125c-0128-4f9e-aaeb-c55bd31108db]
+
+Started GET /api/v1/sucursales for :: ::1 at Tue Jan 20 2026 09:39:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 146 ms Request ID: [915ca516-e025-4a57-a5b2-1601d6d2e603]
+
+Started POST /api/v1/pedidos for :: ::1 at Tue Jan 20 2026 10:15:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Repuestos del sol","tran_id":"2","sucursales":{"AUTOMARCO":"0","GABTEC":"1"},"productos":[{"sku":"70012-6","cantidad":10},{"sku":"10328-4","cantidad":10}]}
+Completed: 400 message:  Time response: 99 ms Request ID: [52b8ceb6-0568-4395-9adf-4625b904cb53]
+
+Started GET /api/v1/brands for :: ::1 at Tue Jan 20 2026 12:26:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Repuestos del sol","tran_id":"2","sucursales":{"AUTOMARCO":"0","GABTEC":"1"},"productos":[{"sku":"70012-6","cantidad":10},{"sku":"10328-4","cantidad":10}]}
+Completed: 200 message:  Time response: 1079 ms Request ID: [e4127e44-ec82-4c78-945d-325e49af7047]
+
+Started GET /api/v1/brands for :: ::1 at Tue Jan 20 2026 12:50:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 946 ms Request ID: [07afcaf4-9350-4077-a3d1-8fcd963bdec8]
+
+Started GET /api/v1/brands for :: ::1 at Tue Jan 20 2026 12:50:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 941 ms Request ID: [3cfc2fa0-d54f-4e16-ae97-21a320f29c5a]
+
+Started GET /api/v1/brands for :: ::1 at Tue Jan 20 2026 12:50:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1010 ms Request ID: [dc281884-6727-4500-b9f4-d67afc8300b2]
+
+Started GET /api/v1/brands for :: ::1 at Tue Jan 20 2026 12:51:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 950 ms Request ID: [d510e82f-713e-4c78-a306-d6eb3819541b]
+
+Started GET /api/v1/brands for :: ::1 at Tue Jan 20 2026 12:51:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 989 ms Request ID: [fa0d890e-cd42-4d6d-80f6-2348c5940dff]
+
+Started GET /api/v1/brands for :: ::1 at Tue Jan 20 2026 12:51:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 972 ms Request ID: [813d6ff9-08ae-4637-a107-7cc0fdc3c68f]
+
+Started GET /api/v1/brands for :: ::1 at Tue Jan 20 2026 13:49:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1058 ms Request ID: [b5f7fe07-b5e0-4186-bac3-91ba50eff9ff]
+
+Started GET /api/v1/brands for :: ::1 at Tue Jan 20 2026 13:50:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 996 ms Request ID: [4f0de342-1269-4396-ba57-306e4c6cfc30]
+
+Started GET /api/v1/brands for :: ::1 at Tue Jan 20 2026 13:50:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 954 ms Request ID: [aef392ae-63fa-41fd-9272-9cdeb28fae5b]
+
+Started GET /api/v1/brands for :: ::1 at Tue Jan 20 2026 13:51:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1052 ms Request ID: [61995fa4-4d50-4f87-8af3-b2ed650564c3]
+
+Started GET /api/v1/brands for :: ::1 at Tue Jan 20 2026 13:51:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1042 ms Request ID: [faa83ae5-613f-479c-a3fb-55a1f293c79f]
+
+Started GET /api/v1/brands for :: ::1 at Tue Jan 20 2026 13:51:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1057 ms Request ID: [8c3f96b4-bf23-4bc0-8608-150b20a22634]
+
+Started GET /api/v1/brands for :: ::1 at Tue Jan 20 2026 13:51:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1027 ms Request ID: [9bd8f417-b3ba-4c4d-a337-5699e12e3a50]
+
+Started GET /api/v1/brands for :: ::1 at Tue Jan 20 2026 13:52:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1092 ms Request ID: [c65dbeab-8cad-4b03-896f-8a64c4669eff]
+
+Started GET /api/v1/brands for :: ::1 at Tue Jan 20 2026 15:00:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 994 ms Request ID: [3e155ef2-c6a1-46f7-8385-155b4fa0f048]
+
+Started GET /api/v1/brands for :: ::1 at Tue Jan 20 2026 15:00:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 981 ms Request ID: [90dde48f-5538-4b46-abfd-b9cca507ca10]
+
+Started GET /api/v1/brands for :: ::1 at Tue Jan 20 2026 15:00:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 972 ms Request ID: [22f41fd9-1359-4e7a-a736-bbb7ce1e34aa]
+
+Started GET /api/v1/brands for :: ::1 at Tue Jan 20 2026 15:43:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1029 ms Request ID: [67c57aac-8331-4716-8e23-1c3416334260]
+
+Started GET /api/v1/brands for :: ::1 at Tue Jan 20 2026 15:43:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 980 ms Request ID: [48a210c7-bcf9-4d94-bb7c-ac4df140fa1a]
+
+Started GET /api/v1/brands for :: ::1 at Tue Jan 20 2026 15:57:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1067 ms Request ID: [e69af152-2316-4d59-8b56-65f6d8df0f73]
+
+Started GET /api/v1/brands for :: ::1 at Tue Jan 20 2026 15:58:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 998 ms Request ID: [55c4d937-6285-4774-8376-f4a4731bb825]
+
+Started GET /api/v1/brands for :: ::1 at Tue Jan 20 2026 15:58:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 986 ms Request ID: [32c03e7a-1dbd-4111-9056-dfb736f52030]
+
+Started GET /api/v1/brands for :: ::1 at Tue Jan 20 2026 15:59:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 971 ms Request ID: [d8c20937-59d7-4a42-8aa1-dd1b331637ff]
+
+Started GET /api/v1/productos for :: ::1 at Tue Jan 20 2026 17:08:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"prod_id":2}
+Completed: 404 message:  Time response: 125 ms Request ID: [5fc44235-1caf-4e67-a538-e1399465ea63]
+
+Started GET /api/v1/productos for :: ::1 at Tue Jan 20 2026 17:08:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2}
+Completed: 404 message:  Time response: 11 ms Request ID: [aa79efb7-64b7-411a-9284-2bbe3231c5c1]
+
+Started GET /api/v1/productos for :: ::1 at Tue Jan 20 2026 17:08:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":"2"}
+Completed: 404 message:  Time response: 12 ms Request ID: [5c8f36f6-ac7e-4057-a86c-6c513ad7bc53]
+
+Started GET /api/v1/productos for :: ::1 at Tue Jan 20 2026 17:09:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2}
+Completed: 404 message:  Time response: 30 ms Request ID: [4bad647c-68af-4e92-8d48-d40da2490fd0]
+
+Started POST /api/v1/productos for :: ::1 at Tue Jan 20 2026 17:09:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2}
+Completed: 404 message:  Time response: 10 ms Request ID: [d513622b-cfa0-4042-93ea-d41a57e42ce5]
+
+Started GET /api/v1/productos for :: ::1 at Tue Jan 20 2026 17:10:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2}
+Completed: 404 message:  Time response: 10 ms Request ID: [334e295b-8873-4513-b35f-1ee4e87db490]
+
+Started POST /api/v1/products for :: ::1 at Tue Jan 20 2026 17:11:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2}
+Completed: 200 message:  Time response: 3380 ms Request ID: [6cb3a184-fc06-41ab-8fce-154ec4277a40]
+
+Started POST /api/v1/products for :: ::1 at Tue Jan 20 2026 17:14:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2}
+Completed: 200 message:  Time response: 1386 ms Request ID: [6ce8d514-dac4-4db6-8220-44d5e0ad2950]

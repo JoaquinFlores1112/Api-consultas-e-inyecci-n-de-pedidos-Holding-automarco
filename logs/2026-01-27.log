@@ -1,0 +1,36 @@
+
+Started POST /api/v1/pedidos for :: ::1 at Tue Jan 27 2026 09:53:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"tran_id":"2","sucursales":{"AUTOMARCO":"0","GABTEC":"0"},"productos":[{"sku":"70012-6","cantidad":10},{"sku":"10328-4","cantidad":10}]}
+Completed: 201 message:  Time response: 1598 ms Request ID: [b41359e9-ae7f-48a7-88eb-7227d2c70af8]
+
+Started POST /api/v1/pedidos for :: ::1 at Tue Jan 27 2026 10:45:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"tran_id":"2","sucursales":{"AUTOMARCO":"0","GABTEC":"1"},"productos":[{"sku":"70012-6","cantidad":10},{"sku":"10328-4","cantidad":10}]}
+Completed: 201 message:  Time response: 870 ms Request ID: [12f42e2c-351a-4747-b940-21b6eaca235f]
+
+Started POST /api/v1/pedidos for :: ::1 at Tue Jan 27 2026 10:51:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"tran_id":"2","sucursales":{"AUTOMARCO":"0","GABTEC":"1"},"productos":[{"sku":"70012-6","cantidad":10},{"sku":"10328-4","cantidad":10}]}
+Completed: 500 message:  Time response: 604 ms Request ID: [c9f49ae3-4e2d-455d-bf88-eee731a58582]
+
+Started POST /api/v1/pedidos for :: ::1 at Tue Jan 27 2026 11:01:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"tran_id":"2","sucursales":{"AUTOMARCO":"0","GABTEC":"0"},"productos":[{"sku":"70012-6","cantidad":10},{"sku":"10328-4","cantidad":10}]}
+Completed: 201 message:  Time response: 504 ms Request ID: [e16a5f20-e79c-4d29-b9b0-28c760ebdb08]
+
+Started POST /api/v1/pedidos for :: ::1 at Tue Jan 27 2026 11:01:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"tran_id":"2","sucursales":{"AUTOMARCO":"0","GABTEC":"0"},"productos":[{"sku":"70012-6","cantidad":10},{"sku":"10328-4","cantidad":10}]}
+Completed: 201 message:  Time response: 402 ms Request ID: [b2870fe4-fc88-4f71-8269-589e49787fed]
+
+Started POST /api/v1/pedidos for :: ::1 at Tue Jan 27 2026 11:01:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"tran_id":"2","sucursales":{"AUTOMARCO":"0","GABTEC":"1"},"productos":[{"sku":"70012-6","cantidad":10},{"sku":"10328-4","cantidad":10}]}
+Completed: 500 message:  Time response: 26298 ms Request ID: [0a3b6a22-6b09-4880-8621-0957a2f23d66]
+
+Started POST /api/v1/pedidos for :: ::1 at Tue Jan 27 2026 11:16:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"tran_id":"2","sucursales":{"AUTOMARCO":"0","GABTEC":"0"},"productos":[{"sku":"70012-6","cantidad":10},{"sku":"10328-4","cantidad":10}]}
+Completed: 201 message:  Time response: 28517 ms Request ID: [391821bb-a07e-41d8-a863-2badd6cd5196]
+
+Started GET /api/v1/api-docs for :: ::1 at Tue Jan 27 2026 16:22:07 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 75 ms Request ID: [446a5c5e-d750-4f31-a7b5-6c41188f8ff8]
+
+Started GET /favicon.ico for :: ::1 at Tue Jan 27 2026 16:22:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 9 ms Request ID: [9098ffc0-ca48-4a6b-96b0-e40675dd27d3]

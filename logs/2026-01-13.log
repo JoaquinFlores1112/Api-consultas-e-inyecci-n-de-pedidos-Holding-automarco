@@ -1,0 +1,8 @@
+
+Started GET /api/v1/sucursales for :: ::1 at Tue Jan 13 2026 13:13:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 769 ms Request ID: [931889e9-dc6a-4e45-ad36-fd8882788f01]
+
+Started POST /api/v1/pedidos for :: ::1 at Tue Jan 13 2026 17:19:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Repuestos del sol","productos":[{"sku":"90015-k","cantidad":10},{"sku":"10328-4","cantidad":10}],"direccion_envio":"Av. vespucio 1256","tran_id":"2"}
+Completed: 500 message:  Time response: 524 ms Request ID: [f03aca74-b7a6-4038-9310-9d2541e21f54]

@@ -1,0 +1,72 @@
+
+Started GET /api/v1/category for :: ::1 at Thu Jan 08 2026 08:26:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 9 ms Request ID: [e7c9ff05-5b39-4ec3-b477-6c1d80ca4fa3]
+
+Started GET /api/v1/category for :: ::1 at Thu Jan 08 2026 08:26:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 3 ms Request ID: [a77d5864-f782-49b0-8e77-c28ec39cfafd]
+
+Started GET /api/v1/category for :: ::1 at Thu Jan 08 2026 08:26:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 3 ms Request ID: [08f71d9d-0a90-400b-9676-e316a6ea3f8b]
+
+Started GET /api/v1/category for :: ::1 at Thu Jan 08 2026 08:26:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1265 ms Request ID: [8e8aca54-8fe2-4ab7-94f4-f274e54f2a15]
+
+Started POST /api/v1/pedidos for :: ::1 at Thu Jan 08 2026 09:24:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Repuestos del sol","productos":[{"sku":"90015-k","cantidad":10},{"sku":"10328-4","cantidad":10}],"direccion_envio":"Av. vespucio 1256","tran_id":"2"}
+Completed: 200 message:  Time response: 1002 ms Request ID: [9f99fac8-022f-4da8-bfc2-f7beb11ddfb3]
+
+Started POST /api/v1/pedidos for :: ::1 at Thu Jan 08 2026 09:25:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 8 ms Request ID: [789b8a73-905d-42b6-8850-6ee73a598234]
+
+Started POST /api/v1/pedidos for :: ::1 at Thu Jan 08 2026 09:25:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 3 ms Request ID: [d6c144fc-ec6a-4180-822c-dc6f8ff35252]
+
+Started POST /api/v1/pedidos for :: ::1 at Thu Jan 08 2026 09:25:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 2 ms Request ID: [dbcf5189-bce6-44e3-bd45-82d73219b6e5]
+
+Started POST /api/v1/pedidos for :: ::1 at Thu Jan 08 2026 09:25:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 3 ms Request ID: [127338d5-bb28-4bbc-9fc2-dffe68bda012]
+
+Started POST /api/v1/pedidos for :: ::1 at Thu Jan 08 2026 09:29:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 4 ms Request ID: [1d416933-73c4-40cb-9db0-b66fd00ef050]
+
+Started POST /api/v1/pedidos for :: ::1 at Thu Jan 08 2026 09:43:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 23 ms Request ID: [bb86aa0c-3575-40e2-b813-6b53759b0290]
+
+Started POST /api/v1/products for :: ::1 at Thu Jan 08 2026 12:01:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 2627 ms Request ID: [bc2fb81e-a7ea-4021-913e-dc9e346134af]
+
+Started POST /api/v1/pedidos for :: ::1 at Thu Jan 08 2026 12:09:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 6 ms Request ID: [2df4c3de-1635-4fc3-8833-e423749e5e36]
+
+Started POST /api/v1/products for :: ::1 at Thu Jan 08 2026 12:11:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":10,"marca_id":14,"modelo_id":550,"cili_id":5,"agno":2022}
+Completed: 401 message:  Time response: 7 ms Request ID: [ba6f11fb-782f-4378-b70a-bcf05cdaf5cf]
+
+Started POST /api/v1/products for :: ::1 at Thu Jan 08 2026 12:11:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":10,"marca_id":14,"modelo_id":550,"cili_id":5,"agno":2022}
+Completed: 401 message:  Time response: 2 ms Request ID: [e13e481a-cb82-404a-bd53-a91f98defe64]
+
+Started POST /api/v1/products for :: ::1 at Thu Jan 08 2026 12:11:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":10,"marca_id":14,"modelo_id":550,"cili_id":5,"agno":2022}
+Completed: 200 message:  Time response: 145 ms Request ID: [e8aa44d0-83da-474b-b5ef-a851f362abbc]
+
+Started POST /api/v1/products for :: ::1 at Thu Jan 08 2026 12:12:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":52,"marca_id":14,"modelo_id":"Prisma","cili_id":17,"agno":"2018"}
+Completed: 200 message:  Time response: 1103 ms Request ID: [bdb39e2c-1f93-4ac8-9c3a-8ce6212fe970]
+
+Started POST /api/v1/pedidos for :: ::1 at Thu Jan 08 2026 13:11:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"empresa":"Repuestos del sol","productos":[{"sku":"90015-k","cantidad":10},{"sku":"10328-4","cantidad":10}],"direccion_envio":"Av. vespucio 1256","tran_id":"2"}
+Completed: 200 message:  Time response: 587 ms Request ID: [609341dc-59f1-4600-9ff4-f858d876d412]

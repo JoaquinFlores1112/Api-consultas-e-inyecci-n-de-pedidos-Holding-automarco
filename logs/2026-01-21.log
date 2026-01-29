@@ -1,0 +1,68 @@
+
+Started POST /api/v1/products for :: ::1 at Wed Jan 21 2026 11:41:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2}
+Completed: 200 message:  Time response: 2862 ms Request ID: [818f04b6-7fac-4bdc-8d27-a61eced1531a]
+
+Started POST /api/v1/products for :: ::1 at Wed Jan 21 2026 11:43:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2}
+Completed: 200 message:  Time response: 1394 ms Request ID: [3d330c51-2601-4b12-a720-76d9724d92d9]
+
+Started POST /api/v1/products for :: ::1 at Wed Jan 21 2026 11:43:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2}
+Completed: 200 message:  Time response: 1494 ms Request ID: [3c048f57-9c9f-4ae0-b36c-d9e467c33627]
+
+Started POST /api/v1/products for :: ::1 at Wed Jan 21 2026 11:44:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2}
+Completed: 200 message:  Time response: 2940 ms Request ID: [c67639e0-6ee9-4b0a-be6e-b3e2ce8b432a]
+
+Started POST /api/v1/products for :: ::1 at Wed Jan 21 2026 11:44:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2}
+Completed: 200 message:  Time response: 1346 ms Request ID: [45aaef98-f093-4c56-af4b-d020bae56456]
+
+Started POST /api/v1/products for :: ::1 at Wed Jan 21 2026 11:44:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2}
+Completed: 200 message:  Time response: 1342 ms Request ID: [01f9b4d0-14b3-4b82-8770-8dd37be6882c]
+
+Started POST /api/v1/products for :: ::1 at Wed Jan 21 2026 11:45:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2}
+Completed: 200 message:  Time response: 1315 ms Request ID: [488a50cc-f2c7-4a59-b9da-dfc2258f9209]
+
+Started POST /api/v1/products for :: ::1 at Wed Jan 21 2026 12:01:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2}
+Completed: 200 message:  Time response: 1800 ms Request ID: [1b223d9e-f4cf-4c6f-a70c-4fd950831a02]
+
+Started POST /api/v1/products for :: ::1 at Wed Jan 21 2026 12:01:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2}
+Completed: 200 message:  Time response: 743 ms Request ID: [6baca158-3098-4e54-88f0-335d3a2a032d]
+
+Started POST /api/v1/products for :: ::1 at Wed Jan 21 2026 12:01:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2}
+Completed: 200 message:  Time response: 1544 ms Request ID: [de81ecc4-8b07-43e7-b069-156aad7e0f9a]
+
+Started POST /api/v1/products for :: ::1 at Wed Jan 21 2026 12:02:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2}
+Completed: 200 message:  Time response: 1672 ms Request ID: [38a6326a-4965-4736-b46e-581666e9d24c]
+
+Started POST /api/v1/products for :: ::1 at Wed Jan 21 2026 12:02:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2}
+Completed: 200 message:  Time response: 1496 ms Request ID: [cadc10e8-fd00-44d8-88de-4e40897dac1b]
+
+Started POST /api/v1/products for :: ::1 at Wed Jan 21 2026 12:03:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2}
+Completed: 200 message:  Time response: 2511 ms Request ID: [a898cc96-8806-403a-bcbb-7e9e05be757c]
+
+Started POST /api/v1/products for :: ::1 at Wed Jan 21 2026 12:04:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2}
+Completed: 200 message:  Time response: 1793 ms Request ID: [d670f3f2-0627-43ae-ba04-cb58ff634f44]
+
+Started POST /api/v1/products for :: ::1 at Wed Jan 21 2026 12:05:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2}
+Completed: 200 message:  Time response: 1565 ms Request ID: [ca03103b-cffd-49cc-9102-7626b544743a]
+
+Started POST /api/v1/products for :: ::1 at Wed Jan 21 2026 12:05:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2}
+Completed: 200 message:  Time response: 1319 ms Request ID: [b0a4a396-5e7e-4402-a7ae-d71ce1d8137b]
+
+Started POST /api/v1/products for :: ::1 at Wed Jan 21 2026 12:05:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"cla_id":2}
+Completed: 200 message:  Time response: 1321 ms Request ID: [1cf261b2-39a1-477b-9ae9-ab9fdbca6b34]
