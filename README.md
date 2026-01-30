@@ -1,6 +1,7 @@
 # Api-consultas-e-inyeccion-de-pedidos-Holding-automarco
 # Descripcion
 
+Api desarrollada para la consulta de productos e inyeccion de pedidos multiempresa del holding Automarco, permite realizar consultas y pedidos de las 4 empresas, Automarco, Autotec, Gabtec, Hd, ademas permite a los usuarios realizar consultas sobre, modelos, marcas, clasificacion de productos, cilindrada, tranportes disponibles, ademas despliega informacion sobre sus sucursales para que puedan realizar pedidos evitando errores.
 # Guía de Instalación y Uso
 
 Instrucciones simples para configurar y ejecutar el servidor.
