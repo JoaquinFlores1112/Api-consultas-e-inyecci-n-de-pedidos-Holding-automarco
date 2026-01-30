@@ -14,8 +14,7 @@ npm install
 ```
 ## Iniciar
 Para iniciar el servidor, usa el siguiente comando:
-```
-Bash
+```Bash
 node locar_server.js
 ```
 ## Cambios Hechos
