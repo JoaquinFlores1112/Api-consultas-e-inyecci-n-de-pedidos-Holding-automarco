@@ -82,7 +82,7 @@ Se creo una funcion la cual verifica que la ip de un cliente coincida en cada co
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=40 DEFAULT CHARSET=latin1'
 ```
-### Documentacion+
+### Documentacion
 En el archivo swagger.yaml, se encuentra la documentacion completa del funcionamiento de la api
 ### Cambio en productsModel y productscontroller
 Se separo la logica de, consulta de productos que se encontraba en productsModel, para tener un mejor orden, ahora se encuentra en productsmodel1.js y productscontroller1.js
