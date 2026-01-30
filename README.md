@@ -57,11 +57,34 @@ CREATE TABLE `automarc_automarco.tiene_permiso` (
   PRIMARY KEY (`rut`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8
 ```
-### Se agregaron los siguientes endpoints:
-• Sucursales: Despliega las sucursales de un cliente separadas por empresa, muestra la direccion, comuna y su ID.  
-• Transportes: Despliega los transportes disponibles junto a su ID
+#### Para crear token y actualizar permisos usuarios se debe ejecutar el siguiente comando en la terminal
+```Bash
+node generartokenbd.js
+```
 ### Verificacion de permisos
 #### Se incluyo una verficacion de permisos la cual permite:
 • Ver solo productos de las empresas en las cual el cliente compra  
-• Retornar un error si es que un pedido multiempresa se incluye un producto
-### Modificacion a la base de datos
+• Retornar un error cuando en un pedido multiempresa se incluya un producto que pertenece a una empresa para la cual no se tienen permisos.
+### Se agregaron los siguientes endpoints:
+• Sucursales: Despliega las sucursales de un cliente separadas por empresa, muestra la direccion, comuna y su ID.  
+• Transportes: Despliega los transportes disponibles junto a su ID
+### Funcion encargada de validar la ip de los usuarios
+Se creo una funcion la cual verifica que la ip de un cliente coincida en cada consultas para evitar que el token de autentificacion se comparta, cada log se guarda en una base de datos junto a la qery realizada, si se detectan 3 distintas ip´s en un lapso de 24 horas se registra en la base de datos con una advertencia. la estructura de la tabla es la siguiente
+```Mysql
+ CREATE TABLE `automarc_automarco.logs (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `rut` varchar(20) NOT NULL,
+  `query_data` longtext CHARACTER SET utf8mb4 COLLATE utf8mb4_bin DEFAULT NULL CHECK (json_valid(`query_data`)),
+  `log` text DEFAULT NULL,
+  `ip` varchar(50) DEFAULT NULL,
+  `fecha` datetime DEFAULT current_timestamp(),
+  `advertencia` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=40 DEFAULT CHARSET=latin1'
+```
+### Documentacion+
+En el archivo swagger.yaml, se encuentra la documentacion completa del funcionamiento de la api
+### Cambio en productsModel y productscontroller
+Se separo la logica de, consulta de productos que se encontraba en productsModel, para tener un mejor orden, ahora se encuentra en productsmodel1.js y productscontroller1.js
+
+
